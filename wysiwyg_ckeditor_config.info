@@ -1,0 +1,6 @@
+name = CKEditor COnfiguration
+description = Custom configuration for CKEditor via the Wysiwyg module
+package = User interface
+dependencies[] = wysiwyg
+core = 7.x
+version = "7.x-1.0"
